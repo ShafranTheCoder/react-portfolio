@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Dmitry Bogutskii",
+    "occupation": "ReactJS FrontEnd Developer",
+    "description": "Full Stack React Developer by Day && Freelancer by Night.",
+    "image": "1231312312.png",
+    "bio": "My name is Dmitry, I'm a Frontend ReactJS Developer. Currently I'm working at WebbyLynx",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "bogutskii.d@gmail.com",
+    "phone": "+380630246619",
+    "address": {
+      "street": "Kotovskogo 47",
+      "city": "Kiev",
+      "state": "UA",
+      "zip": "04136"
+    },
+    "website": "https://www.webbylynx.com",
+    "resumedownload": "https://www.webbylynx.com/wp-content/uploads/2020/09/Dmitrij_14479170rabota.ua_.rtf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sonny.sangha.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dmitry-bogutskii-305310190/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/bogutskii.d/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ShafranTheCoder",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can see my knowledge of frontend development stack",
+    "education": [
+      {
+        "school": "KPI, Kyiv Polytechnic University",
+        "degree": "Master in Software Engineering",
+        "graduated": "December 2019",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "WebbyLynx Inc.",
+        "title": "Cofounder & Chief Executive of IT department",
+        "years": "January 2020 - Present",
+        "description": "Implementing best soulutions"
+      },
+      {
+        "company": "SharpDent Inc.",
+        "title": "Software Engineer",
+        "years": "Nov 2018 - January 2020",
+        "description": "Building app solutions for Dentists based on ReactJS"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "87%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "100%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "86%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Dmitry is a great developer and really helps you with the work process. Any questions I had, he was quick to reply and continues to offer his help in any way he can. Highly recommended!",
+        "user": "James Trebilcock"
+      },
+      {
+        "text": "He's very good to work with , helpful and quick to respond, the work is actually very good and professionally built I highly recommend him",
+        "user": "Anesu Elijah"
+      }
+    ]
+  }
+}
